@@ -2,7 +2,7 @@
 
 
 Technologies Used: HTML, Bootstrap, CSS, JavaScript, moment.js, jQuery
-Deployed: 
+Deployed: https://tuddat0224.github.io/Daily-Work-Day-Calender/
 
 
 
